@@ -1,1 +1,0 @@
-import { THREE } from '$lib';
